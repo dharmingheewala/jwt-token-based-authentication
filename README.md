@@ -11,7 +11,7 @@ This is a basic implementation of JWT token-based authentication in a .NET Core 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/dharmingheewala/jwt-token-based-authentication.git
+   git clone https://github.com/dharmingheewala/jwt-token-based-authentication.git jwt-token-based-authentication
    cd jwt-token-based-authentication
 2. Open the project in your preferred code editor.
 3. Configure JWT settings in appsettings.json: Update JWT settings in appsettings.json with your secret key, issuer, audience, and other relevant information.
