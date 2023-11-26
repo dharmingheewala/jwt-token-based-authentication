@@ -1,5 +1,7 @@
 # jwt-token-based-authentication
 
+## Introduction
+
 This is a basic implementation of JWT token-based authentication in a .NET Core Web API. The authentication is achieved using the `Microsoft.AspNetCore.Authentication.JwtBearer` package for handling JWT tokens and `Microsoft.IdentityModel.Tokens` for token validation.
 
 ## Prerequisites
